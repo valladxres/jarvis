@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+/tmp/
+bienvenido_jarvis.py
+.DS_Store
+.venv/
+.claude/
+.superpowers/
